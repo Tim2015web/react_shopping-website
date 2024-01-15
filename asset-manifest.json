@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/react_shopping-website/static/css/main.a23ffb73.css",
+    "main.js": "/react_shopping-website/static/js/main.b7aa078e.js",
+    "static/media/vouchers-img.webp": "/react_shopping-website/static/media/vouchers-img.e02d4762cf18324a66ab.webp",
+    "static/media/header-img.webp": "/react_shopping-website/static/media/header-img.e977018f37546cc998e2.webp",
+    "static/media/promo-img.webp": "/react_shopping-website/static/media/promo-img.6e007d74af9ec67df148.webp",
+    "static/media/01.webp": "/react_shopping-website/static/media/01.fb4738c10373d3fc5998.webp",
+    "static/media/03.webp": "/react_shopping-website/static/media/03.8ca699408405ffa5c6bb.webp",
+    "static/media/02.webp": "/react_shopping-website/static/media/02.8932c245ca3c1733e90d.webp",
+    "static/media/4_Lacoste.svg": "/react_shopping-website/static/media/4_Lacoste.060f98adc05f5b144b00.svg",
+    "static/media/6_Amazon.svg": "/react_shopping-website/static/media/6_Amazon.861ce6e1221b665f852a.svg",
+    "static/media/1_HM.svg": "/react_shopping-website/static/media/1_HM.c4bfad0ff2dbccd4d8a9.svg",
+    "static/media/3_Shopify.svg": "/react_shopping-website/static/media/3_Shopify.9852bc484fdf5a189d6e.svg",
+    "static/media/5_Levis.svg": "/react_shopping-website/static/media/5_Levis.4cdeab2be2304ddebfe3.svg",
+    "static/media/app-store.webp": "/react_shopping-website/static/media/app-store.0c7023472ccdf7469031.webp",
+    "static/media/2_Obey.svg": "/react_shopping-website/static/media/2_Obey.2f63ba479ced8b2876f3.svg",
+    "static/media/google-play.webp": "/react_shopping-website/static/media/google-play.25cd449730dfb6913ad7.webp",
+    "static/media/logotype.svg": "/react_shopping-website/static/media/logotype.fa6ed5442940b2375841123db8c623be.svg",
+    "static/media/tw.svg": "/react_shopping-website/static/media/tw.28bd6c068f25e4ae67cd362b1da1f8d2.svg",
+    "static/media/in.svg": "/react_shopping-website/static/media/in.e36441e360ccd4bc3466cb67982a374d.svg",
+    "index.html": "/react_shopping-website/index.html",
+    "static/media/arrow-right.svg": "/react_shopping-website/static/media/arrow-right.9d4f9d5e31a0e0b90396898109d19746.svg",
+    "static/media/fb.svg": "/react_shopping-website/static/media/fb.4faf19d0bfe6a510d553b2e4528e5bf8.svg",
+    "static/media/burger.svg": "/react_shopping-website/static/media/burger.bb7181bafab11e134bed0e82ac5b1d28.svg",
+    "static/media/arrivals-title.svg": "/react_shopping-website/static/media/arrivals-title.a222a6d5ccf5ede34846.svg",
+    "static/media/favourite-title.svg": "/react_shopping-website/static/media/favourite-title.4e63ee34727308048122.svg",
+    "static/media/hero-btn.svg": "/react_shopping-website/static/media/hero-btn.1cde02ab1a06cdaddfa4.svg",
+    "main.a23ffb73.css.map": "/react_shopping-website/static/css/main.a23ffb73.css.map",
+    "main.b7aa078e.js.map": "/react_shopping-website/static/js/main.b7aa078e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a23ffb73.css",
+    "static/js/main.b7aa078e.js"
+  ]
+}
