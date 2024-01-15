@@ -1,0 +1,25 @@
+.brands {
+  padding: 58px 0;
+  background-color: var(--secondColor);
+
+  .wrapper {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    align-items: center;
+    justify-content: center;
+    gap: 60px;
+
+    @media (max-width: 1500px) {
+      grid-template-columns: repeat(3, 1fr);
+    }
+
+    @media (max-width: 600px) {
+      grid-template-columns: repeat(1, 1fr);
+    }
+
+    img {
+      margin: 0 auto;
+      max-height: 70px;
+    }
+  }
+}

@@ -1,0 +1,94 @@
+.arrivals {
+  padding: 120px 0 143px 0;
+
+  @media (max-width: 600px) {
+    padding: 60px 0;
+  }
+
+  .header {
+    h2 {
+      display: inline-block;
+      color: var(--mainColor);
+      font-size: 48px;
+      font-weight: 900;
+      line-height: 50px;
+      letter-spacing: 2.88px;
+      text-transform: uppercase;
+      position: relative;
+
+      @media (max-width: 600px) {
+        font-size: 36px;
+      }
+
+      &::before {
+        content: "";
+        position: absolute;
+        background-image: url('../../assets/arrivals-title.svg');
+        bottom: -4px;
+        right: 0;
+        width: 190px;
+        height: 32px;
+
+        z-index: -1;
+      }
+    }
+  }
+
+  .cards {
+    margin-top: 104px;
+
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 131px;
+
+    @media (max-width: 1200px) {
+      grid-template-columns: repeat(2, 1fr);
+      gap: 60px;
+    }
+
+    @media (max-width: 600px) {
+      grid-template-columns: repeat(1, 1fr);
+    }
+  }
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+
+  img {
+    border-radius: 20px;
+  }
+
+  .textWrap {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+
+    div {
+
+
+      h3 {
+        color: var(--mainColor);
+        font-size: 32px;
+        font-weight: 500;
+        line-height: 50px;
+        letter-spacing: -1.28px;
+      }
+
+      p {
+        margin-top: -8px;
+        color: #7F7F7F;
+        font-size: 24px;
+        font-weight: 500;
+        line-height: 50px;
+        letter-spacing: -0.96px;
+      }
+    }
+
+    img {
+      margin-top: 14px;
+    }
+  }
+}
